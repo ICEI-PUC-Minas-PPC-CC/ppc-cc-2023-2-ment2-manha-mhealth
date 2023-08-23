@@ -1,19 +1,20 @@
-# TÍTULO DO PROJETO
+# MHEALTH "A Tecnologia junto a medicina"
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Mentoring II "Sociedade Digital"`
+`2023 - Segundo Semstre`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
+- Lucas Caiaffa Paschoalini
+- Enzo Mattos
 - Larry Ellison
 - Mark Zuckerberg
 
-## Professor
+## Professores
 
-- Mestre Yoda
+- Luciana de Nardin
+- Diego Gonçalves Pontes
 
 # Documentação
 
