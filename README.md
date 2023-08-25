@@ -8,8 +8,10 @@
 
 - Lucas Caiaffa Paschoalini
 - Enzo Mattos
-- Larry Ellison
-- Mark Zuckerberg
+- Gustavo Rondinelli
+- Daniely Fernanda Poscidonio
+- Inácio Castilho Duarte
+- Yasmin Karoline Alcisio Corona
 
 ## Professores
 
