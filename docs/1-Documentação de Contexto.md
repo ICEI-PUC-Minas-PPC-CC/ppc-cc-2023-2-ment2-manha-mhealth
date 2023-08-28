@@ -1,6 +1,6 @@
-# Introdução
+# O que é a mHealth?
+Bem-vindo ao futuro e revolução do sistema de saúde! Imagine um aplicativo que não só compreende os desafios que idosos e pacientes enfrentam: o aplicativo de saúde desenvolvido por universitários, para nossa população. Sua jornada começa aqui, trazendo a você uma solução completa, que se adapta perfeitamente a sua vida. Prepare-se para descobrir uma abordagem revolucionária para cuidar da sua saúde física, mental e emocional. 
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
