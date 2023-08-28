@@ -2,17 +2,17 @@
 Bem-vindo ao futuro e revolução do sistema de saúde! Imagine um aplicativo que não só compreende os desafios que idosos e pacientes enfrentam: o aplicativo de saúde desenvolvido por universitários, para nossa população. Sua jornada começa aqui, trazendo a você uma solução completa, que se adapta perfeitamente a sua vida. Prepare-se para descobrir uma abordagem revolucionária para cuidar da sua saúde física, mental e emocional. 
 
 
-## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+## Qual problema iremos solucionar?
+A falta de paciência, empatia e sobrecarga no sistema de saúde brasileiro, ocasiona em abandono de pacientes em hospitais, UBS e até mesmo em instituições de acolhimento de idosos. O grupo mHealth busca revolucionar o sistema digital de saúde, trazendo um software inovador que trás a solucção para:
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+**Monitoramento de Saúde:** Nosso aplicativo pode rastrear e registrar informações vitais, como pressão arterial, níveis de glicose, frequência cardíaca e muito mais. Isso permite que os idosos e pacientes monitorem sua saúde em tempo real e compartilham seus dados com segurança com seus médicos para devido acompanhamento.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
-## Objetivos
+## Nossos objetivos e metas.
 
 Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
 
