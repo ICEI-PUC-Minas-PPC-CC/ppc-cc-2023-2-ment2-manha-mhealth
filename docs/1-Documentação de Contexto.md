@@ -7,6 +7,8 @@ A falta de paciência, empatia e sobrecarga no sistema de saúde brasileiro, oca
 
 **Monitoramento de Saúde:** Nosso aplicativo pode rastrear e registrar informações vitais, como pressão arterial, níveis de glicose, frequência cardíaca e muito mais. Isso permite que os idosos e pacientes monitorem sua saúde em tempo real e compartilham seus dados com segurança com seus médicos para devido acompanhamento.
 
+**Lembretes de Medicamentos:** Esquecer de tomar medicamentos é um hábito comum, especialmente para idosos com múltiplos medicamentos prescritos. Um aplicativo pode enviar lembretes personalizados para ajudar os pacientes a tomar os medicamentos corretamente e no horário certo.
+
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
