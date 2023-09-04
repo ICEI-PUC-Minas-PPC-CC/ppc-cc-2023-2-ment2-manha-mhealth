@@ -29,7 +29,7 @@ No âmbito de nosso compromisso, visamos tornar o acesso à informação mais f�
 
 Nosso objetivo não é apenas fornecer informações, mas também criar uma comunidade de apoio onde os idosos possam fazer perguntas, compartilhar suas preocupações e receber respostas confiáveis. Acreditamos que ao fornecer uma plataforma que promove a educação e o diálogo, podemos contribuir significativamente para melhorar a saúde e o bem-estar da população idosa.
 
-Nossa visão é um mundo onde os idosos não se sintam mais isolados ou desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
+A visão que temos é de um mundo onde os idosos não se sintam mais isolados ou desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
 
 
 
@@ -46,11 +46,6 @@ O grupo de trabalho pode também fazer uso de questionários, entrevistas e dado
 
 Conforme analisado por nossos desenvolvedores, constatamos que a desinformação continua sendo um problema persistente entre a população idosa. Essa desinformação é frequentemente agravada pela falta de empatia e pela falta de canais adequados para explicar informações vitais relacionadas à saúde. Reconhecendo essa lacuna crítica, nossa missão é oferecer uma solução inovadora para combater a disseminação de informações incorretas entre os idosos e, ao mesmo tempo, esclarecer dúvidas cotidianas relacionadas à saúde.
 
-No âmbito de nosso compromisso, visamos tornar o acesso à informação mais fácil e acessível para os idosos. Acreditamos que todos têm o direito de entender sua saúde e bem-estar de forma clara e compreensível. É por isso que nosso aplicativo oferece informações precisas e relevantes, além de um ambiente acolhedor que valoriza a empatia e a compreensão.
-
-Nosso objetivo não é apenas fornecer informações, mas também criar uma comunidade de apoio onde os idosos possam fazer perguntas, compartilhar suas preocupações e receber respostas confiáveis. Acreditamos que ao fornecer uma plataforma que promove a educação e o diálogo, podemos contribuir significativamente para melhorar a saúde e o bem-estar da população idosa.
-
-Nossa visão é um mundo onde os idosos não se sintam mais isolados ou desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
 
 
 
