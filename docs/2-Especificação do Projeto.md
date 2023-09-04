@@ -11,7 +11,10 @@ Exemplo:
 |**Glória dos Santos**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-mhealth/assets/142806691/9c896043-d732-48b8-bd83-62e74aa7a0d9" width="200" height="200"/>|**Idade:** 53 anos. **Naturalidade:** Barueri - São Paulo. **Ocupação:** Aposenta |**Atribuições:** Ex-Advogada especialista em direito trabalhista.
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** 
+|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** Dona Glória é uma advogada aposentada natural de Barueri. Desde jovem, ela sonhava em seguir uma carreira na área jurídica, 
+Após décadas de dedicação à profissão, Glória decidiu se aposentar e aproveitar os anos que tinha pela frente. Ela comprou uma casa aconchegante em Barueri, onde passa a maior parte de sua vida, apaixonada
+por arte e culinária, dona Glória 
+
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
