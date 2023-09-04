@@ -2,7 +2,7 @@
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Mentoring II "Sociedade Digital"`
-`2023 - Segundo Semstre`
+`2023 - Segundo Semestre`
 
 ## Integrantes
 
