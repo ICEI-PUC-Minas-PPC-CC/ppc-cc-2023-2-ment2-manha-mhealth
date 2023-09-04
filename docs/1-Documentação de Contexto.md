@@ -5,7 +5,7 @@ Com o futuro e tecnologia presente em todos cantos! Pensamos em um aplicativo qu
 ## Qual problema iremos solucionar?
 A falta de informações, empatia e sobrecarga no sistema de saúde brasileiro, ocasiona em abandono de pacientes em hospitais, UBS e até mesmo em instituições de acolhimento de idosos. O grupo mHealth busca revolucionar o sistema digital de saúde, trazendo uma inovadora solução para:
 
-**Monitoramento de Saúde:** Nosso aplicativo pode rastrear e registrar informações vitais, como pressão arterial, níveis de glicose, frequência cardíaca e muito mais. Isso permite que os idosos e pacientes monitorem sua saúde em tempo real e compartilham seus dados com segurança com seus médicos para devido acompanhamento.
+**Monitoramento de Saúde:** A aplicativos que podem rastrear e registrar informações vitais, como pressão arterial, níveis de glicose, frequência cardíaca e muito mais. Isso permite que os idosos e pacientes monitorem sua saúde em tempo real e compartilham seus dados com segurança com seus médicos para devido acompanhamento.
 
 **Lembretes de Medicamentos:** Esquecer de tomar medicamentos é um hábito comum, especialmente para idosos com múltiplos medicamentos prescritos. Um aplicativo pode enviar lembretes personalizados para ajudar os pacientes a tomar os medicamentos corretamente e no horário certo.
 
