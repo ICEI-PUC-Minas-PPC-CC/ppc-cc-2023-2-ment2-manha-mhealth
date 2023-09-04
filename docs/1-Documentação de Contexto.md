@@ -33,7 +33,7 @@ Nosso objetivo não é apenas fornecer informações, mas também criar uma comu
 
 ## Justificativa
 
-Nossa visão é um mundo onde os idosos não se sintam mais isolados ou desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
+Observamos um mundo onde os idosos se sentem cada vez mais isolados e desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
 
 ## Público-Alvo
 
