@@ -19,12 +19,9 @@ A falta de informações, empatia e sobrecarga no sistema de saúde brasileiro, 
 
 **Acompanhamento de Nutrição:** Um aplicativo pode oferecer orientações de nutrição e permitir que os usuários registrem suas refeições para monitorar a ingestão de nutrientes e manter uma dieta saudável.
 
-**Emergências e Suporte Rápido:** Em caso de emergência médica, um aplicativo pode incluir um botão de chamada de emergência que notifica familiares ou serviços de resgate, juntamente com informações médicas relevantes
+**Emergências e Suporte Rápido:** Em caso de emergência médica, um aplicativo pode incluir um botão de chamada de emergência que notifica familiares ou serviços de resgate, juntamente com informações médicas relevantes.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
 
 ## Nossos objetivos e metas.
 
@@ -46,12 +43,16 @@ O grupo de trabalho pode também fazer uso de questionários, entrevistas e dado
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Conforme analisado por nossos desenvolvedores, constatamos que a desinformação continua sendo um problema persistente entre a população idosa. Essa desinformação é frequentemente agravada pela falta de empatia e pela falta de canais adequados para explicar informações vitais relacionadas à saúde. Reconhecendo essa lacuna crítica, nossa missão é oferecer uma solução inovadora para combater a disseminação de informações incorretas entre os idosos e, ao mesmo tempo, esclarecer dúvidas cotidianas relacionadas à saúde.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+No âmbito de nosso compromisso, visamos tornar o acesso à informação mais fácil e acessível para os idosos. Acreditamos que todos têm o direito de entender sua saúde e bem-estar de forma clara e compreensível. É por isso que nosso aplicativo oferece informações precisas e relevantes, além de um ambiente acolhedor que valoriza a empatia e a compreensão.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Nosso objetivo não é apenas fornecer informações, mas também criar uma comunidade de apoio onde os idosos possam fazer perguntas, compartilhar suas preocupações e receber respostas confiáveis. Acreditamos que ao fornecer uma plataforma que promove a educação e o diálogo, podemos contribuir significativamente para melhorar a saúde e o bem-estar da população idosa.
+
+Nossa visão é um mundo onde os idosos não se sintam mais isolados ou desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
+
+
+
+
+
+
