@@ -25,12 +25,13 @@ A falta de informações, empatia e sobrecarga no sistema de saúde brasileiro, 
 
 ## Nossos objetivos e metas.
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+No âmbito de nosso compromisso, visamos tornar o acesso à informação mais fácil e acessível para os idosos. Acreditamos que todos têm o direito de entender sua saúde e bem-estar de forma clara e compreensível. É por isso que nosso aplicativo oferece informações precisas e relevantes, além de um ambiente acolhedor que valoriza a empatia e a compreensão.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Nosso objetivo não é apenas fornecer informações, mas também criar uma comunidade de apoio onde os idosos possam fazer perguntas, compartilhar suas preocupações e receber respostas confiáveis. Acreditamos que ao fornecer uma plataforma que promove a educação e o diálogo, podemos contribuir significativamente para melhorar a saúde e o bem-estar da população idosa.
+
+Nossa visão é um mundo onde os idosos não se sintam mais isolados ou desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
+
+
 
 ## Justificativa
 
