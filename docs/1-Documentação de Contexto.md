@@ -1,13 +1,25 @@
 # O que é a mHealth?
-Bem-vindo ao futuro e revolução do sistema de saúde! Imagine um aplicativo que não só compreende os desafios que idosos e pacientes enfrentam: o aplicativo de saúde desenvolvido por universitários, para nossa população. Sua jornada começa aqui, trazendo a você uma solução completa, que se adapta perfeitamente a sua vida. Prepare-se para descobrir uma abordagem revolucionária para cuidar da sua saúde física, mental e emocional. 
+Com o futuro e tecnologia presente em todos cantos! Pensamos em um aplicativo que não só compreende os desafios que idosos e pacientes enfrentam: o aplicativo de saúde desenvolvido por universitários, para nossa população. Sua jornada começa aqui, trazendo a você uma solução completa, que se adapta perfeitamente a sua vida. Prepare-se para descobrir uma abordagem revolucionária para cuidar da sua saúde física, mental e emocional. 
 
 
 ## Qual problema iremos solucionar?
-A falta de paciência, empatia e sobrecarga no sistema de saúde brasileiro, ocasiona em abandono de pacientes em hospitais, UBS e até mesmo em instituições de acolhimento de idosos. O grupo mHealth busca revolucionar o sistema digital de saúde, trazendo um software inovador que trás a solucção para:
+A falta de informações, empatia e sobrecarga no sistema de saúde brasileiro, ocasiona em abandono de pacientes em hospitais, UBS e até mesmo em instituições de acolhimento de idosos. O grupo mHealth busca revolucionar o sistema digital de saúde, trazendo uma inovadora solução para:
 
 **Monitoramento de Saúde:** Nosso aplicativo pode rastrear e registrar informações vitais, como pressão arterial, níveis de glicose, frequência cardíaca e muito mais. Isso permite que os idosos e pacientes monitorem sua saúde em tempo real e compartilham seus dados com segurança com seus médicos para devido acompanhamento.
 
 **Lembretes de Medicamentos:** Esquecer de tomar medicamentos é um hábito comum, especialmente para idosos com múltiplos medicamentos prescritos. Um aplicativo pode enviar lembretes personalizados para ajudar os pacientes a tomar os medicamentos corretamente e no horário certo.
+
+**Telemedicina e Consultas Online:** Para pacientes que têm dificuldades de mobilidade ou vivem em áreas remotas, um aplicativo de telemedicina pode fornecer acesso a consultas médicas online, permitindo que eles recebam orientação médica sem sair de casa.
+
+**Exercícios e Atividades Físicas:** Muitos idosos precisam de atividades físicas adequadas para manter a saúde e a mobilidade. Um aplicativo pode oferecer rotinas de exercícios personalizados e instruções para ajudá-los a se manter ativos de maneira segura.
+
+**Bem-Estar Mental:** Problemas de saúde mental são comuns em todas as faixas etárias, incluindo idosos. Um aplicativo pode fornecer meditações guiadas, técnicas de relaxamento e até mesmo terapia online para apoiar o bem-estar mental.
+
+**Acesso a Informações Médicas:** Um aplicativo pode fornecer informações confiáveis sobre doenças, sintomas, tratamentos e cuidados de saúde. Isso ajuda os pacientes a entender melhor suas condições e tomar decisões informadas.
+
+**Acompanhamento de Nutrição:** Um aplicativo pode oferecer orientações de nutrição e permitir que os usuários registrem suas refeições para monitorar a ingestão de nutrientes e manter uma dieta saudável.
+
+**Emergências e Suporte Rápido:** Em caso de emergência médica, um aplicativo pode incluir um botão de chamada de emergência que notifica familiares ou serviços de resgate, juntamente com informações médicas relevantes
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
