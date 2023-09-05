@@ -1,32 +1,22 @@
-# Especificações do Projeto
-
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
-
-## Personas
-
-Exemplo:
+# Gente como você!
 
 |**Glória dos Santos**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-mhealth/assets/142806691/9c896043-d732-48b8-bd83-62e74aa7a0d9" width="200" height="200"/>|**Idade:** 53 anos. **Naturalidade:** Barueri - São Paulo. **Ocupação:** Aposenta |**Atribuições:** Ex-Advogada especialista em direito trabalhista.
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** Dona Glória é uma advogada aposentada natural de Barueri. Desde jovem, ela sonhava em seguir uma carreira na área jurídica, 
-Após décadas de dedicação à profissão, Glória decidiu se aposentar e aproveitar os anos que tinha pela frente. Ela comprou uma casa aconchegante em Barueri, onde passa a maior parte de sua vida, apaixonada
-por arte e culinária, dona Glória 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-mhealth/assets/142806691/63780299-a6e6-404f-8974-f0ab6454bfc3" width="200" height="200"/>|**Idade:** 63 anos. **Naturalidade:** Barueri - São Paulo. **Ocupação:** Aposenta |**Atribuições:** Ex-Advogada especialista em direito trabalhista.
+|**Motivações:** Aprender e usar a tecnlogia a seu favor para soluções de seus problemas médicos.   |**Hobbies, história:** Dona Glória é uma advogada aposentada natural de Barueri. Após décadas de dedicação à profissão, Glória decidiu se aposentar e aproveitar os anos que tinha pela frente. Ela comprou uma casa aconchegante em Barueri, onde passa a maior parte de sua vida, apaixonada
+por arte e culinária.
 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+
+
+|**Cláudio Carmo dos Santos**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-mhealth/assets/142806691/f54251c1-e54d-45d3-a52e-356591b2fdda" width="200" height="200"/>|**Idade:** 68 anos. **Naturalidade:** São Paulo - São Paulo. **Ocupação:** Aposentadp |**Atribuições:** Ex-Cirurgião no hospital Sirío Líbanês.
+|**Motivações:** Aprender e usar a tecnlogia a seu favor para soluções de seus problemas médicos.   |**Hobbies, história:**  So Cláudio é um simpático Dr aposentado que adora passear com seu golden e aproveitar seu tempo jogando tênis com seus velhos amigos, Claúdio é apaixonado por carros e restaura alguns deles.
+
+
 >
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
 
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
 
 ## Histórias de Usuários
 
@@ -34,24 +24,16 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 Exemplo:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU | QUERO/PRECISO ... |PARA ...                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Glória dos Santos | Me adequar a tecnlogia e aprender o que puder | Poder viver uma vida tranquila e poder socorrer a mim e meu marido, caso necessário. |
+|Cláudio Carmo| Entender que meu celular pode ser um poço de informações médicas | Compartilhar e poder repassar informações sobre saúde entre colegas e fámilia. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
+(ainda não foi decidido)
 ## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser REMOVIDAS.
 ## Obs.2: Caso seu grupo não vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser REMOVIDA.
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
