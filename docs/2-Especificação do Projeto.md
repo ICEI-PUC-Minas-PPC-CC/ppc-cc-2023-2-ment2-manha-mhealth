@@ -11,7 +11,7 @@ por arte e culinária.
 
 |**Cláudio Carmo dos Santos**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-mhealth/assets/142806691/f54251c1-e54d-45d3-a52e-356591b2fdda" width="200" height="200"/>|**Idade:** 68 anos. **Naturalidade:** São Paulo - São Paulo. **Ocupação:** Aposentadp |**Atribuições:** Ex-Cirurgião no hospital Sirío Líbanês.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-mhealth/assets/142806691/f54251c1-e54d-45d3-a52e-356591b2fdda" width="200" height="200"/>|**Idade:** 68 anos. **Naturalidade:** São Paulo - São Paulo. **Ocupação:** Aposentado|**Atribuições:** Ex-Cirurgião no hospital Sirío Líbanês.
 |**Motivações:** Aprender e usar a tecnlogia a seu favor para soluções de seus problemas médicos.   |**Hobbies, história:**  So Cláudio é um simpático Dr aposentado que adora passear com seu golden e aproveitar seu tempo jogando tênis com seus velhos amigos, Claúdio é apaixonado por carros e restaura alguns deles.
 
 
