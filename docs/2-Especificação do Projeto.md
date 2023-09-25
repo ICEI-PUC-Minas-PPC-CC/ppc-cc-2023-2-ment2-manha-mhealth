@@ -2,7 +2,7 @@
 
 |**Glória dos Santos**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-mhealth/assets/142806691/63780299-a6e6-404f-8974-f0ab6454bfc3" width="200" height="200"/>|**Idade:** 63 anos. **Naturalidade:** Barueri - São Paulo. **Ocupação:** Aposenta |**Atribuições:** Ex-Advogada especialista em direito trabalhista.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-mhealth/assets/142806691/63780299-a6e6-404f-8974-f0ab6454bfc3" width="200" height="200"/>|**Idade:** 63 anos. **Naturalidade:** Barueri - São Paulo. **Ocupação:** Aposentada |**Atribuições:** Ex-Advogada especialista em direito trabalhista.
 |**Motivações:** Aprender e usar a tecnlogia a seu favor para soluções de seus problemas médicos.   |**Hobbies, história:** Dona Glória é uma advogada aposentada natural de Barueri. Após décadas de dedicação à profissão, Glória decidiu se aposentar e aproveitar os anos que tinha pela frente. Ela comprou uma casa aconchegante em Barueri, onde passa a maior parte de sua vida, apaixonada
 por arte e culinária.
 
