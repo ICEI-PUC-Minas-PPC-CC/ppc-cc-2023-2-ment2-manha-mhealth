@@ -55,13 +55,13 @@ __Cons__:
 
 ## Agendamento de consultas
 
-nome do app e desenvolvedor
+Conecte SUS (desenvolvido por Servicos e Informacoes do Brasil)
 
 __Prós__: 
 
 __Cons__: 
 <br><br><br>
-nome do app e desenvolvedor
+Unimed Nacional (desenvolvido pela Central Unimed)
 
 __Prós__: 
 
@@ -71,13 +71,13 @@ __Cons__:
 
 ## Nutrição
 
-nome do app e desenvolvedor
+WebDiet para pacientes (desenvolvido pela WebDiet LTDA)
 
 __Prós__: 
 
 __Cons__: 
 <br><br><br>
-nome do app e desenvolvedor
+Contador de Calorias FatSecret (desenvolvido pela FatSecret)
 
 __Prós__: 
 
