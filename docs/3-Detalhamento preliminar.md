@@ -12,7 +12,7 @@ __Prós__: Está disponivel para download em ambas as plataformas (IOS e Android
       Alta aprovação em ambas as lojas disponiveis, recebeu bons comentarios positivos.
 
 __Cons__: A efetividade da meditação varia dependendo da usuário, nem sempre apresentando algum resultado.
-
+<br><br><br>
 BetterMe: Mental Health | Meditação e Bem-Estar (desenvolvido por BetterMe Limited)
 
 __Prós__: 
@@ -28,7 +28,7 @@ nome do app e desenvolvedor
 __Prós__: 
 
 __Cons__: 
-
+<br><br><br>
 nome do app e desenvolvedor
 
 __Prós__: 
@@ -44,7 +44,7 @@ nome do app e desenvolvedor
 __Prós__: 
 
 __Cons__: 
-
+<br><br><br>
 nome do app e desenvolvedor
 
 __Prós__: 
@@ -60,7 +60,7 @@ nome do app e desenvolvedor
 __Prós__: 
 
 __Cons__: 
-
+<br><br><br>
 nome do app e desenvolvedor
 
 __Prós__: 
@@ -76,11 +76,9 @@ nome do app e desenvolvedor
 __Prós__: 
 
 __Cons__: 
-
+<br><br><br>
 nome do app e desenvolvedor
 
 __Prós__: 
 
 __Cons__: 
-
-<hr>
