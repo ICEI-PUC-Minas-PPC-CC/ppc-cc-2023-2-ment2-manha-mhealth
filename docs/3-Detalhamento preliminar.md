@@ -8,8 +8,10 @@ Atma | Meditação e Bem-Estar (desenvolvido pela Telefonica VIVO)
 
 O Atma é um app de meditação que tem como objetivo ser parceiro na jornada em busca do autoconhecimento e bem-estar, por isso seus conteúdos têm como objetivos controle do estresse, redução da ansiedade, concentração, melhorar o sono e mais.
 
-Prós: Está disponivel para download em ambas as plataformas (IOS e Android)
+__Prós__: Está disponivel para download em ambas as plataformas (IOS e Android);
       Alta aprovação em ambas as lojas disponiveis, recebeu bons comentarios positivos.
+
+__Cons__: A efetividade da meditação varia dependendo da pessoa  nem sempre apresenta resultados positivos.
 
 
 
