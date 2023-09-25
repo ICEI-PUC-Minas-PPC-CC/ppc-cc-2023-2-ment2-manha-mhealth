@@ -15,9 +15,9 @@ __Cons__: A efetividade da meditação varia dependendo da usuário, nem sempre 
 <br><br><br>
 BetterMe: Mental Health | Meditação e Bem-Estar (desenvolvido por BetterMe Limited)
 
-__Prós__: 
+__Prós__: Praticidade e um ensino fácil para pessoas com zero costumes na aréa de meditação.
 
-__Cons__: 
+__Cons__: Não avisa que é pago após o segundo mês.
 
 <hr>
 
@@ -45,15 +45,15 @@ __Cons__: Não e tão didático por ter muita conectividade pode causar confusã
 
 Cany Crush (desenvolvido por King Digital Entertainment plc)
 
-__Prós__: 
+__Prós__: Os primeiros níveis, graças à sua facilidade, permitem uma satisfação rápida ao jogador, funcionado como uma espécie de mini recompensas que o motivam a voltar a jogar e exercitam a memória do usuario.
 
-__Cons__: 
+__Cons__: Dependendo do tempo passado em frente ao dispositivo, a emissão de luz azul pode causar danos ao usuário e também gerar certa depêndencia do jogo.
 <br><br><br>
-nome do app e desenvolvedor
+Sudoku (desenvolvido pela Brainium Studios)
 
-__Prós__: 
+__Prós__: Dois médicos e dois professores entrevistados pelo g1 apontam que o hábito de jogar esses games traz benefícios para cérebro (com estímulo à atenção, à memória, ao raciocínio lógico e ao aprendizado, por exemplo), com reflexos positivos em atividades do dia a dia
 
-__Cons__: 
+__Cons__: Dependendo do tempo passado em frente ao dispositivo, a emissão de luz azul pode causar danos ao usuário e também gerar certa depêndencia do jogo.
 
 <hr>
 
@@ -77,12 +77,12 @@ __Cons__: Possui baixo indice de aprovação entre usuariose e ainda por cima é
 
 WebDiet para pacientes (desenvolvido pela WebDiet LTDA)
 
-__Prós__: 
+__Prós__: Conta com mais de 100 renomados nutricionistas para atendimento, curso altamente bem avaliado e indicado por personas famosas
 
-__Cons__: 
+__Cons__: Seu preço é um pouco elevado e conta uma certa dificuldade de manejo.
 <br><br><br>
 Contador de Calorias FatSecret (desenvolvido pela FatSecret)
 
-__Prós__: 
+__Prós__: 100% grátis, sem nenhum custo, info de Nutrição para todos os alimentos, marcas e restaurantes, uma coleção grande de receitas saudáveis para a sua dieta, um diário de exercícios para gravar todas as calorias que você queima.
 
-__Cons__: 
+__Cons__: Conta com certo nivel de entendimento para poder ser manuseado.
