@@ -1,7 +1,15 @@
-#Nossa saúde pela tela de suas mãos.
+# Nossa saúde pela tela de suas mãos.
 
+A seguir, apresentamos uma cuidadosa seleção de 10 aplicativos que não apenas oferecerão comodidade e bem-estar, mas também auxiliarão de maneira significativa nosso público-alvo a se aventurar no vasto universo virtual. Essas ferramentas se destacam por proporcionar um ambiente propício ao cuidado da saúde física e mental, tornando a jornada rumo ao equilíbrio e ao autocuidado mais acessível do que nunca.
 
+## Saúde Mental.
 
+Atma | Meditação e Bem-Estar (desenvolvido pela Telefonica VIVO)
+
+O Atma é um app de meditação que tem como objetivo ser parceiro na jornada em busca do autoconhecimento e bem-estar, por isso seus conteúdos têm como objetivos controle do estresse, redução da ansiedade, concentração, melhorar o sono e mais.
+
+Prós: Está disponivel para download em ambas as plataformas (IOS e Android)
+      Alta aprovação em ambas as lojas disponiveis, recebeu bons comentarios positivos.
 
 
 
