@@ -57,15 +57,15 @@ __Cons__:
 
 Conecte SUS (desenvolvido por Servicos e Informacoes do Brasil)
 
-__Prós__: 
+__Prós__: Lembretes automatizados: com os aplicativos podem ser criados lembretes automáticos que conseguem notificar os pacientes para não perderem as suas consultas. 
 
-__Cons__: 
+__Cons__: Falta de flexibilidade: alguns pacientes podem encontrar dificuldades ao tentar remarcar ou cancelar consultas por meio de aplicativos. 
 <br><br><br>
 Unimed Nacional (desenvolvido pela Central Unimed)
 
-__Prós__: 
+__Prós__: Facilidade de agendamento: sem a necessidade de fazer ligações telefônicas ou visitar pessoalmente a clínica enconomizando tempo e esforço.
 
-__Cons__: 
+__Cons__: Possui baixo indice de aprovação entre usuariose e ainda por cima é disponivel apenas para redes de sáude privada.
 
 <hr>
 
