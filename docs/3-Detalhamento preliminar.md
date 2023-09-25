@@ -11,7 +11,7 @@ O Atma é um app de meditação que tem como objetivo ser parceiro na jornada em
 __Prós__: Está disponivel para download em ambas as plataformas (IOS e Android);<br>
       Alta aprovação em ambas as lojas disponiveis, recebeu bons comentarios positivos.
 
-__Cons__: A efetividade da meditação varia dependendo da pessoa  nem sempre apresentando algum resultado.
+__Cons__: A efetividade da meditação varia dependendo da usuário, nem sempre apresentando algum resultado.
 
 
 
