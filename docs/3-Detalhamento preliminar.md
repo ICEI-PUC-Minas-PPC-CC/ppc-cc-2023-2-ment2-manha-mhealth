@@ -23,17 +23,21 @@ __Cons__:
 
 ## Saúde Fisica
 
-nome do app e desenvolvedor
+Treino em casa
 
-__Prós__: 
+__Prós__: App extremamente didático todos os passos a passos disponíveis.
 
-__Cons__: 
+__Cons__: Assim que você termina sua ficha técnica ele pede para passar para conta Pro sendo paga.
 <br><br><br>
-nome do app e desenvolvedor
+Goals Fitness
 
-__Prós__: 
+__Prós__: Um app que tem conectividade com tudo entrando até mesmo nas músicas do celular.
+ E mais focado em caminhadas/corridas em ar livre.
+ Tem monitorando por GPS ajudando a monitorar seu ritmo.
+ Métodos para incentivo.
 
-__Cons__: 
+__Cons__: Não e tão didático por ter muita conectividade pode causar confusão.
+ Não tem exercício, somente caminhadas/corridas. 
 
 <hr>
 
