@@ -18,15 +18,11 @@ por arte e culinária.
 >
 
 
-## Histórias de Usuários
+## Nossas histórias             
 
-Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
+|Glória dos Santos | Me adequar a tecnlogia e aprender o que puder | Poder viver uma vida tranquila e poder socorrer a mim e meu marido, caso necessário. | 
 
-Exemplo:
 
-|EU | QUERO/PRECISO ... |PARA ...                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Glória dos Santos | Me adequar a tecnlogia e aprender o que puder | Poder viver uma vida tranquila e poder socorrer a mim e meu marido, caso necessário. |
 |Cláudio Carmo| Entender que meu celular pode ser um poço de informações médicas | Compartilhar e poder repassar informações sobre saúde entre colegas e fámilia. |
 
 
