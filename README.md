@@ -10,7 +10,6 @@
 - Enzo Mattos
 - Gustavo Rondinelli
 - Daniely Fernanda Poscidonio
-- Inácio Castilho Duarte
 - Yasmin Karoline Alcisio Corona
 
 ## Professores
