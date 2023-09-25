@@ -39,7 +39,7 @@ __Cons__:
 
 ## Exercícios para memória
 
-nome do app e desenvolvedor
+Cany Crush (desenvolvido por King Digital Entertainment plc)
 
 __Prós__: 
 
