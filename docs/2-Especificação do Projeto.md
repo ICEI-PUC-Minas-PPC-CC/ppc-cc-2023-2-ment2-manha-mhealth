@@ -20,8 +20,8 @@ por arte e culinária.
 
 ## Nossas histórias             
 
-Glória dos Santos <br> Me adequar a tecnlogia e aprender o que puder <br> Poder viver uma vida tranquila e poder socorrer a mim e meu marido, caso necessário. 
+__Glória dos Santos__ <br> Me adequar a tecnlogia e aprender o que puder; <br> Poder viver uma vida tranquila e poder socorrer a mim e meu marido, caso necessário; <br> Ter um vida sáldavel após aposentadoria.
 
 <br>
 
-Cláudio Carmo <br> Entender que meu celular pode ser um poço de informações médicas <br> Compartilhar e poder repassar informações sobre saúde entre colegas e fámilia.
+__Cláudio Carmo__ <br> Entender que meu celular pode ser um poço de informações médicas; <br> Compartilhar e poder repassar informações sobre saúde entre colegas e família. 
