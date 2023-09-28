@@ -74,11 +74,21 @@ __Cons__: Possui baixo indice de aprovação entre usuariose e ainda por cima é
 <hr>
 
 ## Nutrição
+      Alguns dos prós de aplicativos de nutrição e dieta em geral são: 
+      1. A possibilidade de fazer contato direto e tirar dúvidas com nitricionistas através do app;
+      2. Interação com outros apps (por exemplo o "Saúde" do iPhone) e com smartwatchs;
+      3. A facilidade em tornar a alimentação mais saudável e adequada para a necessidade que cada pessoa tem de calorias.
 
+      Alguns dos contras de aplicativos de nutrição e dieta em geral são: 
+      1. A dificuldade em usar as ferramentas dos apps para idosos ou usuários com pouco conhecimento tecnológico. Ferramentas como tirar foto das refeições, interpretar gráficos, etc;
+      2. Para acessar as janelas mais detalhadas, tem que adquirir a versão paga;
+      3. Por último, um contra que é além do uso do app seria a dificuldade em comer nas horas certas, realizar receitas ou as vezes até mesmo os preços dos produtos "fitness".
+      
 WebDiet para pacientes (desenvolvido pela WebDiet LTDA)
 
-__Prós__: Conta com mais de 100 renomados nutricionistas para atendimento, curso altamente bem avaliado e indicado por personas famosas
-
+__Prós__: 
+1. Conta com mais de 100 renomados nutricionistas para atendimento, curso altamente bem avaliado e indicado por personas famosas.
+   
 __Cons__: Seu preço é um pouco elevado e conta uma certa dificuldade de manejo.
 <br><br><br>
 Contador de Calorias FatSecret (desenvolvido pela FatSecret)
