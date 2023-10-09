@@ -1,6 +1,5 @@
 # O que é a mHealth?
-Com o futuro e tecnologia presente em todos cantos! Pensamos em um aplicativo que não só compreende os desafios que idosos e pacientes enfrentam: o aplicativo de saúde desenvolvido por universitários, para nossa população. Sua jornada começa aqui, trazendo a você uma solução completa, que se adapta perfeitamente a sua vida. Prepare-se para descobrir uma abordagem revolucionária para cuidar da sua saúde física, mental e emocional. 
-
+Diante do constante avanço tecnológico que molda nosso futuro e permeia todos os aspectos da vida, reconhecemos a importância de proporcionar educação e orientação para idosos que desejam aprimorar suas habilidades tecnológicas. Embasados em pesquisas que visam cada vez mais integrar a terceira idade ao mundo da tecnologia, o grupo Mhealth oferece um curso altamente interativo, direcionado ao público idoso. Este curso visa capacitar a terceira idade a se adquear com seus smartphones e aparelhos, promovendo maior interatividade e inclusão tecnológica através de nosso campus e alunos.
 
 ## Qual problema iremos solucionar?
 A falta de informações, empatia e sobrecarga no sistema de saúde brasileiro, ocasiona em abandono de pacientes em hospitais, UBS e até mesmo em instituições de acolhimento de idosos. O grupo mHealth busca revolucionar o sistema digital de saúde, trazendo uma inovadora solução para:
