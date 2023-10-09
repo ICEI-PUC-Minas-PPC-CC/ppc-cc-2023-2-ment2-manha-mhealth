@@ -11,7 +11,7 @@
 - Gustavo Rondinelli
 - Daniely Fernanda Poscidonio
 - Yasmin Karoline Alcisio Corona
-- César Henrique POlicarpo
+- César Henrique Policarpo
 
 ## Professores
 
