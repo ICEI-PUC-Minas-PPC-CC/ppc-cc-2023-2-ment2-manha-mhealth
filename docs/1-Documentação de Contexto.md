@@ -33,7 +33,7 @@ Nosso objetivo não é apenas fornecer informações, mas também criar uma comu
 
 ## Justificativa
 
-Observamos um mundo onde os idosos se sentem cada vez mais isolados e desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
+Observamos um mundo onde os idosos se sentem cada vez mais isolados e desamparados diante da sobrecarga de informações que enfrentam diariamente. Com nosso aplicativo, aspiramos a capacitar essa geração valiosa com o conhecimento e a confiança necessários para tomar decisões informadas sobre sua saúde. Após reaiizar maior estudo, observa-se que a área digital cresce cada vez mais entre a terceira idade, como se observa no estudo realizado pelo a pesquisa do Centro Regional de Estudo para o Desenvolvimento da Sociedade da Informação a porcentagem de pessoas na terceira idade que usam internet cresceu de 8% para 19%, de 2012 a 2016. Portanto estamos comprometidos em criar uma mudança positiva, fornecendo uma ferramenta que não apenas combate a desinformação, mas também enriquece a vida daqueles que envelhecem com sabedoria.
 
 ## Público-Alvo
 
