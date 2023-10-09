@@ -37,8 +37,7 @@ Observamos um mundo onde os idosos se sentem cada vez mais isolados e desamparad
 
 ## Público-Alvo
 
-Conforme analisado por nossos desenvolvedores, constatamos que a desinformação continua sendo um problema persistente entre a população idosa. Essa desinformação é frequentemente agravada pela falta de empatia e pela falta de canais adequados para explicar informações vitais relacionadas à saúde. Reconhecendo essa lacuna crítica, nossa missão é oferecer uma solução inovadora para combater a disseminação de informações incorretas entre os idosos e, ao mesmo tempo, esclarecer dúvidas cotidianas relacionadas à saúde.
-
+Com base na análise realizada por nossa equipe de desenvolvedores, verificamos que a desinformação ainda é uma questão persistente entre a população idosa. Por isso tomamos como base adotarmos como público alvo à terceira idade em geral.
 
 
 
