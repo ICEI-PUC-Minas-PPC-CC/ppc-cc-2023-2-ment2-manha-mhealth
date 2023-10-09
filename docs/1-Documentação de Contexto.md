@@ -2,7 +2,8 @@
 Diante do constante avanço tecnológico que molda nosso futuro e permeia todos os aspectos da vida, reconhecemos a importância de proporcionar educação e orientação para idosos que desejam aprimorar suas habilidades tecnológicas. Embasados em pesquisas que visam cada vez mais integrar a terceira idade ao mundo da tecnologia, o grupo Mhealth oferece um curso altamente interativo, direcionado ao público idoso. Este curso visa capacitar a terceira idade a se adquear com seus smartphones e aparelhos, promovendo maior interatividade e inclusão tecnológica através de nosso campus e alunos.
 
 ## Qual problema iremos solucionar?
-A falta de informações, empatia e sobrecarga no sistema de saúde brasileiro, ocasiona em abandono de pacientes em hospitais, UBS e até mesmo em instituições de acolhimento de idosos. O grupo mHealth busca revolucionar o sistema digital de saúde, trazendo uma inovadora solução para:
+
+Nosso principal objetivo é disponibilizar um curso semissincrônico, altamente interativo, para permitir que os idosos tenham acesso a informações sobre seus próprios dispositivos, além de estimular neles o desejo de aprofundar seus conhecimentos de forma contínua
 
 **Monitoramento de Saúde:** A aplicativos que podem rastrear e registrar informações vitais, como pressão arterial, níveis de glicose, frequência cardíaca e muito mais. Isso permite que os idosos e pacientes monitorem sua saúde em tempo real e compartilham seus dados com segurança com seus médicos para devido acompanhamento.
 
@@ -24,7 +25,7 @@ A falta de informações, empatia e sobrecarga no sistema de saúde brasileiro, 
 
 ## Nossos objetivos e metas.
 
-No âmbito de nosso compromisso, visamos tornar o acesso à informação mais fácil e acessível para os idosos. Acreditamos que todos têm o direito de entender sua saúde e bem-estar de forma clara e compreensível. É por isso que nosso aplicativo oferece informações precisas e relevantes, além de um ambiente acolhedor que valoriza a empatia e a compreensão.
+No âmbito de nosso compromisso, visamos tornar o acesso à informação mais fácil e acessível para os idosos. Acreditamos que todos têm o direito de entender sua saúde e bem-estar de forma clara e compreensível. É por isso que nosso curso oferece informações precisas e relevantes, além de um ambiente acolhedor que valoriza a empatia e a compreensão.
 
 Nosso objetivo não é apenas fornecer informações, mas também criar uma comunidade de apoio onde os idosos possam fazer perguntas, compartilhar suas preocupações e receber respostas confiáveis. Acreditamos que ao fornecer uma plataforma que promove a educação e o diálogo, podemos contribuir significativamente para melhorar a saúde e o bem-estar da população idosa.
 
