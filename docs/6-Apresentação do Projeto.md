@@ -16,7 +16,7 @@ Em seguida, gravamos um vídeo em que cada participante do grupo falou un pouco 
 
 > **Links Úteis**:
 > - Link para a playlist: https://www.youtube.com/watch?v=RQoqb9BoHIY&list=PLY4htrddvl9ZH5qpH6dB9FL7kCZ925HIn
-> - https://youtu.be/tpBqcVjAkVg
+> - Link para a pitch de apresentação: https://youtu.be/tpBqcVjAkVg
 
 ## Pitch de apresentação
 
