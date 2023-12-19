@@ -10,12 +10,13 @@ Nome e marca do projeto
 
 ## Identidade Visual (Marca, Design)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
+Nossa solução para o problema foi a elaboração de video-aulas em que explicamos cada aplicativo e ensinamos o passo a passo de como usá-los.
+
+Em seguida, gravamos um vídeo em que cada participante do grupo falou un pouco de como foi participar desse projeto.
 
 > **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
+> - Link para a playlist: https://www.youtube.com/watch?v=RQoqb9BoHIY&list=PLY4htrddvl9ZH5qpH6dB9FL7kCZ925HIn
+> - https://youtu.be/tpBqcVjAkVg
 
 ## Pitch de apresentação
 
